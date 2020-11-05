@@ -19,4 +19,3 @@ if __name__ == "__main__":
     file = open(f"{os.getcwd()}/Capturas/Data_dia_{f_url}_hr_{hora}.json", "wb")
     file.write(cont)
     file.close
-

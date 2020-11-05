@@ -2,19 +2,19 @@
     "FechaCreacion":"2020-11-01T23:41:35.57",
     "Version":"v1",
     "Listado":[{
-         
 
+        {"Codigo":"1028897-1005-SE20",
+        "Nombre":"Sp 846, Materiales de Ferretería Escuela Pública Rayen Lafquen, rbd 6350, Mant.",
+        "CodigoEstado":6},
 
-
-        {"Codigo":"1028897-1005-SE20","Nombre":"Sp 846, Materiales de Ferretería Escuela Pública Rayen Lafquen, rbd 6350, Mant.","CodigoEstado":6},
-
-
-        {"Codigo":"1028897-1015-SE20","Nombre":"Sp 863, Materiales de Ferretería Liceo Luis González, RBD 6585, Mant. ","CodigoEstado":6},{"Codigo":"1051765-1718-AG20","Nombre":"crs chillan","CodigoEstado":6},
+        {"Codigo":"1028897-1015-SE20","Nombre":"Sp 863, Materiales de Ferretería Liceo Luis González, RBD 6585, Mant","CodigoEstado":6},
+        {"Codigo":"1051765-1718-AG20","Nombre":"crs chillan","CodigoEstado":6},
         {"Codigo":"1057299-1062-SE20","Nombre":"MATERIAL DE ASEO SALA CUNA SAN LUIS","CodigoEstado":6},
         {"Codigo":"1057299-1117-SE20","Nombre":"MATERIAL DE ASEO SALA CUNA LLANO LAS PIEDRAS","CodigoEstado":6},
         {"Codigo":"1057299-1126-SE20","Nombre":"MATERIAL DE ASEO SALA CUNA SAN JOSE","CodigoEstado":6},
-        {"Codigo":"1057472-5219-CM20","Nombre":"2239-16-LR15 Órtesis, Prótesis, Endoprótesis e Insumos de Salud","CodigoEstado":12},
-        {"Codigo":"1057472-5510-CM20","Nombre":"2239-16-LR15 Órtesis, Prótesis, Endoprótesis e Insumos de Salud","CodigoEstado":12},
+        {"Codigo":"1057472-5219-CM20","Nombre":"2239-16-LR15 Órtesis, Prótesis, Endoprótesis e Insumos de Salud","CodigoEstado":12,
+
+        {"Codigo":"1057472-5510-CM20","Nombre":"2239-16-LR15 Órtesis, Prótesis, Endoprótesis e Insumos de Salud","CodigoEstado":12,
         {"Codigo":"1057472-600-CM20","Nombre":"INSUMOS CLINICOS FEBRERO MARZO","CodigoEstado":12},
         {"Codigo":"1057490-324-SE20","Nombre":"Frutas y Verduras Octubre 2020","CodigoEstado":12},
         {"Codigo":"1057490-456-AG20","Nombre":"Batería Oftalmoscopio","CodigoEstado":12},
